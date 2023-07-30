@@ -1,0 +1,6 @@
+name: DailyQuest
+src-namespace-prefix: phuongaz\dailyquest
+main: phuongaz\dailyquest\DailyQuest
+version: 1.0.0
+api: 4.0.0
+author: phuongaz
